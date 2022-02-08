@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jamey-mitchell
+- 👀 I’m interested in Angular, React, and .NET Core
+- 🌱 I’m currently learning React and the Redux pattern
